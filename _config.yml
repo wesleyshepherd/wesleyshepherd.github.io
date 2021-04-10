@@ -67,9 +67,7 @@ panelbear_analytics: XXXXXXXXX # panelbear analytics site ID
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: 
-blog_description: a simple whitespace theme for academics
-permalink: /blog/:year/:title/
+
 
 # Pagination
 pagination:
