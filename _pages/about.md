@@ -15,8 +15,4 @@ social: true
 published: true
 ---
 
-Write your biography here. Tell the world about yourself. 
-
-
-
-
+Write your biography here. Tell the world about yourself.
